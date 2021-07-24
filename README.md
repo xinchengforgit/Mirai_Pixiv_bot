@@ -19,7 +19,10 @@
 
 在任意qq群中输入搜索+上你所需要的tag即可随机图片，注:不会随出不能发送的图(
 
+###### 4.没有弄package.json(
 
+因为一开始写的时候没有注意(,所以就缺什么npm install什么吧2333,注意mirai-js需要 npm install mirai-js@1
+mirai-js的文档界面见https://drincann.github.io/Mirai-js/#/v1.x/QuickStart
 
 
 
